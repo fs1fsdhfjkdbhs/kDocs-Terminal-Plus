@@ -1,9 +1,7 @@
-import pyperclip
+
 import os
 import time
 import sys
-import playsound
-import settings
 
 #info
 
@@ -13,6 +11,12 @@ username = settings.username
 #script
 
 def script():
+    import pyperclip
+    import os
+    import time
+    import sys
+    import playsound
+    import settings
     print(time.ctime())
     cmd = input("∂ ")
     if cmd == "print":
