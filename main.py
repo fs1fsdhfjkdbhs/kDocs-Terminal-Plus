@@ -1,4 +1,4 @@
-
+import settings
 import os
 import time
 import sys
