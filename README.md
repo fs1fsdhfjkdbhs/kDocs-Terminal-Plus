@@ -3,7 +3,7 @@ This is a better version of kDocs-Terminal. We recommend you replace the old kDo
 
 # Installation
 
-To install this script, click on "Code" and click on "Download ZIP".
+To install this script, click on "Code" and click on "Download ZIP". If you are getting asked for a password, the password is **1helesa**.
 
 # Security
 
